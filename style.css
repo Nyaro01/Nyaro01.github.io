@@ -1,5 +1,5 @@
 body {
-    background-color: #0f1329 !important;
+    background-color: #0a0717 !important;
   }
 h1 {
     color: #333;
@@ -9,3 +9,12 @@ a {
     color: #007bff;
     text-decoration: none;
 }
+
+.nav-item>.active {
+    color: #4f41e6 !important;
+    font-size: medium;
+    font-family: 'Lucida Sans';
+    text-decoration: underline !important;
+    background-color: #1d1a41 !important;
+  }
+
